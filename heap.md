@@ -1,4 +1,4 @@
-## Heap Allocation failed and crash
+## Heap allocation failed and crash
 ```js
 
 {
